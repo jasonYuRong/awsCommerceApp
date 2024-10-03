@@ -1,0 +1,17 @@
+{
+    "action": "order",
+    "productID": "12345",
+    "quantity": 1
+}
+
+{
+    "action": "order",
+    "productID": "67890",
+    "quantity": 1
+}
+
+{
+    "action": "order",
+    "productID": "54321",
+    "quantity": 1
+}
