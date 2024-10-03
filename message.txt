@@ -1,0 +1,17 @@
+{
+    "action": "search",
+    "productID": "12345",
+    "productName": "Laptop"
+}
+
+{
+    "action": "search",
+    "productID": "67890",
+    "productName": "Smartphone"
+}
+
+{
+    "action": "search",
+    "productID": "12345",
+    "productName": "Laptop"
+}
